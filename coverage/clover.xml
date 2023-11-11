@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1699706701735" clover="3.2.0">
+  <project timestamp="1699706701736" name="All files">
+    <metrics statements="19" coveredstatements="19" conditionals="4" coveredconditionals="4" methods="10" coveredmethods="10" elements="33" coveredelements="33" complexity="0" loc="19" ncloc="19" packages="1" files="3" classes="3"/>
+    <file name="queue.js" path="D:\coding-prep\cracking-the-code-interview-FAANG-course\datastructures-implementations\queue.js">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="4" type="stmt"/>
+      <line num="6" count="5" type="stmt"/>
+      <line num="9" count="4" type="stmt"/>
+      <line num="12" count="3" type="stmt"/>
+    </file>
+    <file name="stack.js" path="D:\coding-prep\cracking-the-code-interview-FAANG-course\datastructures-implementations\stack.js">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="4" type="stmt"/>
+      <line num="6" count="5" type="stmt"/>
+      <line num="9" count="4" type="stmt"/>
+      <line num="12" count="3" type="stmt"/>
+    </file>
+    <file name="tree.js" path="D:\coding-prep\cracking-the-code-interview-FAANG-course\datastructures-implementations\tree.js">
+      <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="7" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="15" count="3" type="stmt"/>
+      <line num="16" count="3" type="stmt"/>
+      <line num="17" count="3" type="stmt"/>
+    </file>
+  </project>
+</coverage>
